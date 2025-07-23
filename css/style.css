@@ -790,6 +790,7 @@ h2, h3, .sub-heading {
     font-size: 20px;
     line-height: 50px;
     text-align: center;
+    cursor: pointer;
     transition: 0.5s ease;
 }
     
