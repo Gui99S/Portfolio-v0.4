@@ -1,7 +1,7 @@
 # Portfolio-v0.4
 
 
-🛠️ SOBRE O PROJETO:
+🛠️ *SOBRE O PROJETO:*
 
 
 Este portfólio pessoal é uma vitrine digital desenvolvida para apresentar de forma elegante e funcional minha trajetória profissional, habilidades técnicas e projetos mais relevantes. Construído com as tecnologias fundamentais da web (HTML5, CSS3 e JavaScript), este utiliza bibliotecas modernas como o SwiperJS para carrosséis interativos e o Font Awesome para ícones de alta qualidade. 
@@ -10,7 +10,7 @@ O design responsivo garante uma experiência consistente em qualquer dispositivo
 
 Além de servir como um repositório dinâmico, este portfólio é uma demonstração prática das minhas competências em desenvolvimento front-end, integrando conceitos de UX/UI e acessibilidade.
 
-🚀 TECNOLOGIAS:
+🚀 *TECNOLOGIAS:*
 
 
 Core: HTML5, CSS3, JavaScript.
@@ -26,6 +26,6 @@ Deploy: GitHub Pages.
 
 
 
-🌐 Link:
+🌐 *LINK:*
 
 
