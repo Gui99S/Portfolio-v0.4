@@ -1123,9 +1123,21 @@ h2, h3, .sub-heading {
     transition: 0.3s ease;
 }
 
+#portfolio .slide-container .slide-content .card-wrapper .port-card .card-content ul .tag_react {
+    background-color: #61DAFB;
+    color: var(--darkBackgroundColor);
+    font-weight: 500;
+    border-radius: 0.6rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    padding: 0.4rem;
+    margin: 0.2rem;
+    transition: 0.3s ease;
+}
+
 #portfolio .slide-container .slide-content .card-wrapper .port-card .card-content ul .tag_html:hover,
 #portfolio .slide-container .slide-content .card-wrapper .port-card .card-content ul .tag_css:hover,
-#portfolio .slide-container .slide-content .card-wrapper .port-card .card-content ul .tag_js:hover {
+#portfolio .slide-container .slide-content .card-wrapper .port-card .card-content ul .tag_js:hover,
+#portfolio .slide-container .slide-content .card-wrapper .port-card .card-content ul .tag_react:hover {
     transform: translateY(-5px);
 }
 
